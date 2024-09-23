@@ -36,10 +36,12 @@ Clone the repository:
 git clone https://github.com/Bharathkumarmallula/rendeR-E-commerce.git
 Change to the project directory:
 
-cd e-commerce-web-app  
+cd frontEnd
+  
 Install the required dependencies:
 
 npm install  
+
 Start the development server:
 
 npm run dev  

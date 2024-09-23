@@ -2,6 +2,8 @@ rendeR is a  E-Commerce Web Application
 
 Welcome to the E-Commerce Web Application repository! This project is a fully functional online store where users can browse and purchase clothing items for all ages. The application has been developed using React for the frontend and styled with Tailwind CSS, HTML, and CSS.
 
+
+
 Responsive design for a seamless experience on mobile and desktop
 
 User sign up and log in
@@ -12,7 +14,20 @@ Product search functionality
 
 Shopping cart management
 
-Secure checkout process 
+**Usage**
+
+Once the application is running, you can:
+
+Browse through various clothing categories.
+
+Search for specific items using the search bar.
+
+sorting the products
+
+Add items to your shopping cart.
+
+Proceed to checkout for a seamless purchase experience.
+
 
 **Technologies Used**
 
@@ -29,11 +44,13 @@ Hooks: useEffect,useContext,useState,useRef,useNavigate, useLocation
 Package Manager: npm
 
 **Installation**
+
 To get started with the project, follow these steps:
 
 Clone the repository:
 
 git clone https://github.com/Bharathkumarmallula/rendeR-E-commerce.git
+
 Change to the project directory:
 
 cd frontEnd
@@ -47,13 +64,6 @@ Start the development server:
 npm run dev  
 Open your browser and navigate to http://localhost:5173/ to view the application.
 
-Usage
-Once the application is running, you can:
-
-Browse through various clothing categories.
-Search for specific items using the search bar.
-Add items to your shopping cart.
-Proceed to checkout for a seamless purchase experience.
  
  
 **Contributing**

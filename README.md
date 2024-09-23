@@ -22,14 +22,13 @@ Styling: Tailwind CSS, HTML, CSS
 
 State Management: React Hooks
 
-
 Routing: React Router
 
 Hooks: useEffect,useContext,useState,useRef,useNavigate, useLocation
 
 Package Manager: npm
 
-Installation
+**Installation**
 To get started with the project, follow these steps:
 
 Clone the repository:
@@ -55,10 +54,12 @@ Add items to your shopping cart.
 Proceed to checkout for a seamless purchase experience.
  
  
-Contributing
+**Contributing**
+
 Contributions are welcome! If you have suggestions for improvements or features, please feel free to:
 
-Fork the repository
+**Fork the repository**
+
 Create a new branch (git checkout -b feature/your-feature)
 Make your changes and commit them (git commit -m 'Add some feature')
 Push to the branch (git push origin feature/your-feature)

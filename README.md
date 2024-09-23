@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/e-commerce-web-app.git  
+git clone https://github.com/Bharathkumarmallula/rendeR-E-commerce.git
 Change to the project directory:
 
 cd e-commerce-web-app  

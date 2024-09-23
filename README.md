@@ -6,7 +6,7 @@ User sign up and log in
 Browsable product categories (Men, Women, Children)
 Product search functionality
 Shopping cart management
-Secure checkout process
+Secure checkout process 
 
 **Technologies Used**
 Frontend Framework: React

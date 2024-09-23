@@ -5,6 +5,7 @@ Welcome to the E-Commerce Web Application repository! This project is a fully fu
 Responsive design for a seamless experience on mobile and desktop
 
 User sign up and log in
+
 Browsable product categories (Men, Women, Children)
 
 Product search functionality
